@@ -1,0 +1,10 @@
+Programming Java_Full course include basis and advanced options
+Computer science_Computer science involves the study of computation, automation, and information
+Networking_The foundations of networking: switches, routers, and wireless access points
+Linux like systems_ An operating systems and collection of the basic instructions
+Psychology basic_ The study of the mind and behavior
+Clean code_The course of the SOLID principles and basic code rules
+Relational databases_Databases course
+Angular_The course about platform for building mobile and desktop web apps
+Algorithms_Algorithm design refers to a method or a mathematical process for problem-solving and engineering algorithms
+Redux and React_The course of is the official Redux UI binding library for React
